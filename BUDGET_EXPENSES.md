@@ -8,7 +8,7 @@ TronNode-007 will be provided with appropriate budget support based on TRON'S ne
 
 10% - Systems Services Contracts and Hardware and Upgrade Expenditures
 
-<hr>
+<hr</hr>
 
 100% - Total Funds Allocation
 
