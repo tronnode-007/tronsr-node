@@ -1,14 +1,2 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Name: [App Capital]
+URL: [[role](https://app-capital.net/)https://app-capital.net/]
